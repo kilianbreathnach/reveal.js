@@ -1295,6 +1295,11 @@ body {
 .sunset .reveal .state-background {
 	background: rgba( 255, 122, 0, 0.6 );
 }
+.title_img .reveal .state-background {
+        background-image: url('http://farm8.staticflickr.com/7282/8744766936_4157a630a9_h.jpg');
+        background-repeat: no-repeat;
+        background-size: cover;
+}
 .astrometry .reveal .state-background {
         background-image: url('http://i.imgur.com/qL76HRk.png');
         background-repeat: no-repeat;
