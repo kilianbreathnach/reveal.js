@@ -1296,7 +1296,9 @@ body {
 	background: rgba( 255, 122, 0, 0.6 );
 }
 .astrometry .reveal .state-background {
-        background-image: url('http://i.imgur.com/qL76HRk.png');
+        background-image: url('http://i.imgur.com/qL76HRk.png') top no-repeat;
+        filter: alpha(opacity=50);
+        background-size: 200% Auto
 }
 
 
