@@ -1308,7 +1308,7 @@ body {
 .pixdensity .reveal .state-background {
         background-image: url('http://broiler.astrometry.net/~kilian/pictures/pixdensity.png');
         background-repeat: no-repeat;
-        background-position: cover;
+        background-position: 100% auto;
 }
 .tractor .reveal .state-background {
         background-image: url('http://thetractor.org/media/logo.png');
