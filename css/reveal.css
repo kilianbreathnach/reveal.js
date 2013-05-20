@@ -1301,7 +1301,7 @@ body {
         background-position: right top;
 }
 .tractor .reveal .state-background {
-        background-image: url('http://thetractor.org/media/logo.png') top no-repeat;
+        background-image: url('http://thetractor.org/media/logo.png');
         background-repeat: no-repeat;
         background-position: right top;
 }
