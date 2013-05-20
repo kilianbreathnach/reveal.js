@@ -1297,6 +1297,8 @@ body {
 }
 .astrometry .reveal .state-background {
         background-image: url('http://i.imgur.com/qL76HRk.png');
+}
+
 
 /*********************************************
  * RTL SUPPORT
