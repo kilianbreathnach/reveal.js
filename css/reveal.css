@@ -1295,6 +1295,9 @@ body {
 .sunset .reveal .state-background {
 	background: rgba( 255, 122, 0, 0.6 );
 }
+
+/***** extra states for the experimental requirement *****/
+
 .title_img .reveal .state-background {
         background-image: url('http://farm8.staticflickr.com/7282/8744766936_4157a630a9_h.jpg');
         background-repeat: no-repeat;
@@ -1314,6 +1317,13 @@ body {
         background-image: url('http://thetractor.org/media/logo.png');
         background-repeat: no-repeat;
         background-position: right top;
+}
+
+/***** extra states for the oral qual *****/
+.oral_title .reveal .state-background {
+        background-image: url('../talk_data/slice_0062_05xy.png');
+        background-repeat: no-repeat;
+        background-size: cover;
 }
 
 
